@@ -1,4 +1,4 @@
-# quick reference
+# quick reference (AI)
 Collection of quick reference posters for Artificial Intelligence, Machine Learning and Deep Learning/Neural Networks
 
 sources: 
