@@ -7,3 +7,4 @@ sources:
 - https://policyviz.com/product/core-principles-of-data-visualization-cheatsheet/
 - https://zeroturnaround.com/rebellabs/docker-commands-and-best-practices-cheat-sheet/
 - https://zeroturnaround.com/rebellabs/docker-commands-and-best-practices-cheat-sheet/
+- https://www.kdnuggets.com/2018/08/ai-knowledge-map-classify-ai-technologies.html
